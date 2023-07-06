@@ -27,8 +27,11 @@ Implementation:
 #Steps to Run the Project
 
 step 1 : Setup Glut(OpenGL) library on an IDE that can run C/C++ projects (Preferably Codeblocks)
+
 step 2 : Create a new c Project in glut application in the IDE
+
 step 3 : Type the above main.cpp file into the main.cpp file of the project
+
 step 4 : Build and run the project
 
 
